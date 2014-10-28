@@ -108,6 +108,7 @@
   <ItemGroup>
     <Compile Include="BaseModel.cs" />
     <Compile Include="BaseViewModel.cs" />
+    <Compile Include="INotifyPropertyChanging.cs" />
     <Compile Include="ListSync.cs" />
     <Compile Include="Properties\Annotations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
